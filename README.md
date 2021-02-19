@@ -109,4 +109,3 @@ A further improvement to this app relates to the visuals of the app. Currently, 
 <a name="auth"></a>
 ## Authors
 
-Jelle Vinkenoog
